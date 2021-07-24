@@ -71,4 +71,23 @@ Sorces:
  # peteralexandercharles/git
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oB6jmPaiNkrASSSnNGoJPAs4CRLtRFA7pQ&usqp=CAU)
    [GitHub](https://github.com/peteralexandercharles)
-   
+  
+  
+ # Back to the previous branch
+  	git checkout - 
+ 
+ # Cherry-pick but with autocommit
+	git cherry-pick a6817b7 sdfasdf
+  	# .... as many as you want
+  
+ # Cherry-pick without commit !
+  	git cherry-pick a6817b7 sdfasdf -n
+  
+# Time Machine Back to Past and Delete the Future.
+  	git checkout <commit>
+  	git push -f origin <name-of-remote-branch>
+
+  
+  ![](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png) [Youtube - Git cherry pick tutorial. How to use git cherry-pick.
+](  https://www.youtube.com/watch?v=wIY824wWpu4)
+
