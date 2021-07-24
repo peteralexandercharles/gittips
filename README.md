@@ -68,10 +68,7 @@ Sorces:
 [How to Delete a Git Branch Both Locally and Remotely](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
   
   
- # peteralexandercharles/git
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oB6jmPaiNkrASSSnNGoJPAs4CRLtRFA7pQ&usqp=CAU)
-   [GitHub](https://github.com/peteralexandercharles)
-  
+
   
  # Back to the previous branch
   	git checkout - 
@@ -91,3 +88,8 @@ Sorces:
   ![](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png) [Youtube - Git cherry pick tutorial. How to use git cherry-pick.
 ](  https://www.youtube.com/watch?v=wIY824wWpu4)
 
+  
+ # peteralexandercharles/git
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oB6jmPaiNkrASSSnNGoJPAs4CRLtRFA7pQ&usqp=CAU)
+   [GitHub](https://github.com/peteralexandercharles)
+  
