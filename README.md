@@ -82,7 +82,7 @@ Sorces:
   
 # Time Machine Back to Past and Delete the Future.
   	git checkout <commit>
-  	git push -f origin <name-of-remote-branch>
+  	git switch -c <new-branch>
 
   
   ![](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png) [Youtube - Git cherry pick tutorial. How to use git cherry-pick.
