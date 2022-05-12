@@ -112,6 +112,9 @@ The same technique allows you to return to any previous revision:
 Always keep in mind, however, that using the reset command undoes all commits that came after the one you returned to:
 
   ![](https://www.git-tower.com/learn/git/faq/undo-last-commit/02-reset-concept.png)
+	
+# pip and pipenv
+	Yes, Pipenv uses a different finding approach that the highest version goes first. You can anyway pass the python version by pipenv install --python=3.7.
   
  # peteralexandercharles/git
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oB6jmPaiNkrASSSnNGoJPAs4CRLtRFA7pQ&usqp=CAU)
